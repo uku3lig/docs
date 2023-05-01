@@ -1,3 +1,23 @@
-site_name: uku docs owo
+site_name: uku's weird projects
+repo_url: https://github.com/uku3lig/docs
+repo_name: uku3lig/docs
+
 theme:
   name: material
+  language: en
+  icon:
+    repo: octicons/mark-github-16
+  favicon: assets/icon.png
+  logo: assets/icon.png
+  palette: 
+    scheme: slate
+    primary: deep purple
+    accent: deep purple
+  features:
+    - navigation.tabs
+
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/uku3lig/
+    
